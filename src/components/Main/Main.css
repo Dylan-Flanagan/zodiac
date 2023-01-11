@@ -1,0 +1,7 @@
+main {
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
