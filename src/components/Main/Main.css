@@ -1,5 +1,7 @@
 main {
   background-size: cover;
-  background-repeat: repeat;
-  height: 100vh;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }

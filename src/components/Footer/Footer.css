@@ -1,0 +1,10 @@
+footer {
+  background-color: aliceblue;
+  text-transform: uppercase;
+  font-weight: bold;
+  height: 20px;
+  bottom: 0%;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
